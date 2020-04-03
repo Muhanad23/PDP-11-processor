@@ -1,0 +1,181 @@
+{E:/Muhanad/CUFE/Third year/1st Semester/[CA] Computer Architecture/Project/DECODER.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/Muhanad/CUFE/Third year/1st Semester/[CA] Computer Architecture/Project/DECODER.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity DECODER
+-- Compiling architecture BEHAVIOURAL of DECODER
+
+} {} {}} {E:/Muhanad/CUFE/Third year/1st Semester/[CA] Computer Architecture/Project/M_INS_DECODERS.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/Muhanad/CUFE/Third year/1st Semester/[CA] Computer Architecture/Project/M_INS_DECODERS.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity M_INS_DEC
+-- Compiling architecture M_INS of M_INS_DEC
+
+} {} {}} {E:/Muhanad/CUFE/Third year/1st Semester/[CA] Computer Architecture/Project/TRANSPARENT_REG.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/Muhanad/CUFE/Third year/1st Semester/[CA] Computer Architecture/Project/TRANSPARENT_REG.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity TRANSPARENT_REG
+-- Compiling architecture BEHAVIOURAL of TRANSPARENT_REG
+
+} {} {}} {E:/Muhanad/CUFE/Third year/1st Semester/[CA] Computer Architecture/Project/OP_DECODERS.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/Muhanad/CUFE/Third year/1st Semester/[CA] Computer Architecture/Project/OP_DECODERS.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity OP_DECODRS
+-- Compiling architecture OP of OP_DECODRS
+
+} {} {}} {E:/Muhanad/CUFE/Third year/1st Semester/[CA] Computer Architecture/Project/partA.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/Muhanad/CUFE/Third year/1st Semester/[CA] Computer Architecture/Project/partA.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity PARTA
+-- Compiling architecture PARTA_FUNC of PARTA
+
+} {} {}} {E:/Muhanad/CUFE/Third year/1st Semester/[CA] Computer Architecture/Project/DFF.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/Muhanad/CUFE/Third year/1st Semester/[CA] Computer Architecture/Project/DFF.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity DFF
+-- Compiling architecture DFF_ARCH of DFF
+
+} {} {}} {E:/Muhanad/CUFE/Third year/1st Semester/[CA] Computer Architecture/Project/partB.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/Muhanad/CUFE/Third year/1st Semester/[CA] Computer Architecture/Project/partB.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity PARTB
+-- Compiling architecture PARTB_FUNC of PARTB
+
+} {} {}} {E:/Muhanad/CUFE/Third year/1st Semester/[CA] Computer Architecture/Project/partC.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/Muhanad/CUFE/Third year/1st Semester/[CA] Computer Architecture/Project/partC.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity PARTC
+-- Compiling architecture PARTC_FUNC of PARTC
+
+} {} {}} {E:/Muhanad/CUFE/Third year/1st Semester/[CA] Computer Architecture/Project/alu.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/Muhanad/CUFE/Third year/1st Semester/[CA] Computer Architecture/Project/alu.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ALU
+-- Compiling architecture ALU_FUNC of ALU
+
+} {} {}} {E:/Muhanad/CUFE/Third year/1st Semester/[CA] Computer Architecture/Project/full_adder.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/Muhanad/CUFE/Third year/1st Semester/[CA] Computer Architecture/Project/full_adder.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity FULL_ADDER
+-- Compiling architecture F_ADDER_FUNC of FULL_ADDER
+
+} {} {}} {E:/Muhanad/CUFE/Third year/1st Semester/[CA] Computer Architecture/Project/partD.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/Muhanad/CUFE/Third year/1st Semester/[CA] Computer Architecture/Project/partD.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity PARTD
+-- Compiling architecture PARTD_FUNC of PARTD
+
+} {} {}} {E:/Muhanad/CUFE/Third year/1st Semester/[CA] Computer Architecture/Project/Decoder_ENABLE.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/Muhanad/CUFE/Third year/1st Semester/[CA] Computer Architecture/Project/Decoder_ENABLE.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity DECODER_ENABLE
+-- Compiling architecture DEC_ARCH of DECODER_ENABLE
+
+} {} {}} {E:/Muhanad/CUFE/Third year/1st Semester/[CA] Computer Architecture/Project/alsu.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/Muhanad/CUFE/Third year/1st Semester/[CA] Computer Architecture/Project/alsu.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ALSU
+-- Compiling architecture ALSU_FUNC of ALSU
+
+} {} {}} {E:/Muhanad/CUFE/Third year/1st Semester/[CA] Computer Architecture/Project/ROM.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/Muhanad/CUFE/Third year/1st Semester/[CA] Computer Architecture/Project/ROM.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity ROM
+-- Compiling architecture SYNCROMA of ROM
+
+} {} {}} {E:/Muhanad/CUFE/Third year/1st Semester/[CA] Computer Architecture/Project/DECODING_CIRCUIT.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/Muhanad/CUFE/Third year/1st Semester/[CA] Computer Architecture/Project/DECODING_CIRCUIT.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity DECODING_CIRCUIT
+-- Compiling architecture CIRCUIT of DECODING_CIRCUIT
+
+} {} {}} {E:/Muhanad/CUFE/Third year/1st Semester/[CA] Computer Architecture/Project/RAM.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/Muhanad/CUFE/Third year/1st Semester/[CA] Computer Architecture/Project/RAM.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity RAM
+-- Compiling architecture ram_func of ram
+
+} {} {}} {E:/Muhanad/CUFE/Third year/1st Semester/[CA] Computer Architecture/Project/TRISTATE.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/Muhanad/CUFE/Third year/1st Semester/[CA] Computer Architecture/Project/TRISTATE.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity TRI_STATE_BUFFER
+-- Compiling architecture BUFFER_FUNC of TRI_STATE_BUFFER
+
+} {} {}} {E:/Muhanad/CUFE/Third year/1st Semester/[CA] Computer Architecture/Project/CONTROL_UNIT.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/Muhanad/CUFE/Third year/1st Semester/[CA] Computer Architecture/Project/CONTROL_UNIT.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity CONTROL_UNIT
+-- Compiling architecture CONT of CONTROL_UNIT
+
+} {} {}} {E:/Muhanad/CUFE/Third year/1st Semester/[CA] Computer Architecture/Project/FlagReg.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/Muhanad/CUFE/Third year/1st Semester/[CA] Computer Architecture/Project/FlagReg.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Flag_REG
+-- Compiling architecture BEHAVIOURAL of Flag_REG
+
+} {} {}} {E:/Muhanad/CUFE/Third year/1st Semester/[CA] Computer Architecture/Project/half_adder.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/Muhanad/CUFE/Third year/1st Semester/[CA] Computer Architecture/Project/half_adder.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity HALF_ADDER
+-- Compiling architecture ADD of HALF_ADDER
+
+} {} {}} {E:/Muhanad/CUFE/Third year/1st Semester/[CA] Computer Architecture/Project/System.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/Muhanad/CUFE/Third year/1st Semester/[CA] Computer Architecture/Project/System.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity SYSTEM
+-- Compiling architecture SYS_ARCH of SYSTEM
+
+} {} {}} {E:/Muhanad/CUFE/Third year/1st Semester/[CA] Computer Architecture/Project/Register.vhd} {1 {vcom -work work -2002 -explicit -stats=none {E:/Muhanad/CUFE/Third year/1st Semester/[CA] Computer Architecture/Project/Register.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity REG
+-- Compiling architecture REG_ARCH of REG
+
+} {} {}}
